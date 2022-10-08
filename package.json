@@ -1,6 +1,6 @@
 {
   "name": "nestjs-result2camelcase",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "author": "Tommaso Sacramone",
   "license": "MIT",
   "main": "lib/index.js",
@@ -28,6 +28,7 @@
     "url": "https://github.com/tommysack/nestjs-result2camelcase/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "map-keys-deep-lodash": "^1.2.4"
   }
 }
