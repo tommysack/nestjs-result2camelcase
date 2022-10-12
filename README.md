@@ -1,6 +1,6 @@
 # Mapping results in to camelCase
 
-This is an Interceptor to transform the keys of API results from snake-case to camelCase.<br/>
+This is an Interceptor to transform the keys of API results (snake-cased or with spaces) to camelCase.<br/>
 
 ## Installation
 
