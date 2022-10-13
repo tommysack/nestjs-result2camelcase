@@ -9,7 +9,7 @@
     "lib/**/*"
   ],
   "description": "Mapping results in to camelCase",
-  "keywords": [],
+  "keywords": ["nestjs","api", "camelcase"],
   "scripts": {
     "build": "tsc"
   },
