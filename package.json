@@ -1,6 +1,6 @@
 {
   "name": "nestjs-result2camelcase",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "Tommaso Sacramone",
   "license": "MIT",
   "main": "lib/index.js",
