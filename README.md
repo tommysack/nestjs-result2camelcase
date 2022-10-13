@@ -1,6 +1,6 @@
-# Mapping results in to camelCase
+# NestJS camelCase API results
 
-This is an Interceptor to transform the keys of API results (snake-cased or with spaces) to camelCase.<br/>
+This is a NestJS Interceptor to transform the keys of API results (snake-cased or with spaces) to camelCase.<br/>
 
 ## Installation
 
