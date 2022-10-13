@@ -8,7 +8,7 @@
   "files": [
     "lib/**/*"
   ],
-  "description": "Mapping results in to camelCase",
+  "description": "NestJS camelCase API results",
   "keywords": ["nestjs","api", "camelcase"],
   "scripts": {
     "build": "tsc"
